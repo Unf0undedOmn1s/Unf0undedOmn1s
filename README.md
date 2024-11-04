@@ -11,7 +11,7 @@
 
 -  How to reach me **securespherehub@gmail.com**
 
-- Undergraduate @ https://www.uoi.gr
+- Undergraduate @ https://uoi.gr
 
 <h3 align="left">Connect with me:</h3>
 https://instagram.com/0day.sentinel
