@@ -5,13 +5,13 @@
 
 -  I’m currently learning **Kotlin language.**
 
--  I regularly write articles on [https://securespherehub.blogspot.com](https://securespherehub.blogspot.com)
+-  I regularly write articles on: [https://securespherehub.blogspot.com](https://securespherehub.blogspot.com)
 
 -  Ask me anything **about Cybersecurity.**
 
--  How to reach me **securespherehub@gmail.com**
+-  How to reach me: **securespherehub@gmail.com**
 
-- Undergraduate @ https://uoi.gr
+- Undergraduate @ University of Ioannina | https://dit.uoi.gr
 
 <h3 align="left">Connect with me:</h3>
 https://instagram.com/0day.sentinel
