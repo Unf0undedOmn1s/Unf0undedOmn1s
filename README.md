@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unf0undedomn1s&label=Profile%20views&color=0e75b6&style=flat" alt="unf0undedomn1s" /> </p>
 
--  I’m currently learning **PHP language.**
+-  Offensive Security Practitioner
 
 -  I regularly write articles on: [https://securespherehub.blogspot.com](https://securespherehub.blogspot.com)
 
@@ -12,6 +12,8 @@
 -  How to reach me: **securespherehub@gmail.com**
 
 - Undergraduate @ University of Ioannina | https://dit.uoi.gr
+
+- Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr
 
 <h3 align="left">Connect with me:</h3>
 https://instagram.com/0day.sentinel
