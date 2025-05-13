@@ -15,6 +15,8 @@
 
 - Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr
 
+- Member of Student Branch IEEE | https://www.ieee.org/
+
 <h3 align="left">Connect with me:</h3>
 https://instagram.com/0day.sentinel
 <p align="left">
