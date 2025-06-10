@@ -24,5 +24,3 @@ I'm an Offensive Security Practicioner<br>I regularly write articles on: https:/
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Unf0undedOmn1s&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
