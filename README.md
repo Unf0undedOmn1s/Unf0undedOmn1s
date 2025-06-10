@@ -6,7 +6,7 @@ I'm an Offensive Security Practicioner<br>I regularly write articles on: https:/
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0day.sentinel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marios-grivas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariosg@ieee.org) 
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/4e/75/c4/4e75c4ecf5e4d4ae3d49fab72a96d685.jpg" width="400" alt="Hacking Animation">
+  <img src="https://i.pinimg.com/736x/4e/75/c4/4e75c4ecf5e4d4ae3d49fab72a96d685.jpg" width="600" alt="Hacking Animation">
 </p>
 
 # 💻 Tech Stack:
