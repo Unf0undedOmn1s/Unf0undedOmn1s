@@ -1,30 +1,24 @@
-<h1 align="center">Hello, I'm Unf0undedOmn1s</h1>
-<h3 align="center">Securing the Future, One Line of Code at a Time</h3>
+# 💫 About Me:
+I'm an Offensive Security Practicioner<br>I regularly write articles on: https://securespherehub.blogspot.com<br>Ask me anything about Cybersecurity<br>How to reach me: mariosg@ieee.org<br>Undergraduate @ University of Ioannina | https://dit.uoi.gr<br>Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr<br>Member of the Student Branch of IEEE UOI | https://www.ieee.org<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unf0undedomn1s&label=Profile%20views&color=0e75b6&style=flat" alt="unf0undedomn1s" /> </p>
 
--  Offensive Security Practitioner
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0day.sentinel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marios-grivas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariosg@ieee.org) 
 
--  I regularly write articles on: [https://securespherehub.blogspot.com](https://securespherehub.blogspot.com)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Unf0undedOmn1s&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Unf0undedOmn1s&theme=shadow_red&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unf0undedOmn1s&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
--  Ask me anything **about Cybersecurity.**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
--  How to reach me: **securespherehub@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Unf0undedOmn1s&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
 
-- Undergraduate @ University of Ioannina | https://dit.uoi.gr
+---
+[![](https://visitcount.itsvg.in/api?id=Unf0undedOmn1s&icon=0&color=4)](https://visitcount.itsvg.in)
 
-- Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr
-
-- Member of Student Branch IEEE | https://www.ieee.org/
-
-<h3 align="left">Connect with me:</h3>
-https://instagram.com/0day.sentinel
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unf0undedomn1s&show_icons=true&locale=en&layout=compact" alt="unf0undedomn1s" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unf0undedomn1s&" alt="unf0undedomn1s" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
