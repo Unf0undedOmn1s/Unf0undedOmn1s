@@ -6,7 +6,7 @@ I'm an Offensive Security Practicioner<br>I regularly write articles on: https:/
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0day.sentinel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marios-grivas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mariosg@ieee.org) 
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/bf/a4/3d/bfa43de3ba8574e14291f17625b604c6.jpg" width="600" alt="Hacking Animation">
+  <img src="https://www.shutterstock.com/shutterstock/videos/1085775857/preview/stock-footage-hacker-group-attacked-russia-digital-animation-of-cyber-attack-background-view-of-digital.webm" width="600" alt="Hacking Animation">
 </p>
 
 # 💻 Tech Stack:
