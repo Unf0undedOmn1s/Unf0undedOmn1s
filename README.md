@@ -1,5 +1,5 @@
 # About Me:
-I'm an Offensive Security Practicioner<br>I regularly write articles on: https://securespherehub.blogspot.com<br>Ask me anything about Cybersecurity<br>How to reach me: mariosg@ieee.org<br>Undergraduate @ University of Ioannina | https://dit.uoi.gr<br>Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr<br>Member of the Student Branch of IEEE UOI | https://www.ieee.org<br>
+I'm an Offensive Security Practicioner<br>I regularly write articles on: https://defprotocol.hashnode.dev <br> Ask me anything about Cybersecurity<br>How to reach me: mariosg@ieee.org<br>Undergraduate @ University of Ioannina | https://dit.uoi.gr<br>Member of the Student Team of Epirus XR Center | https://xrcenter.project.uoi.gr<br>Member of the Student Branch of IEEE UOI | https://www.ieee.org<br>
 
 
 ## 🌐 Socials:
